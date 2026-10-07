@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(26, 44, 44);
+    border: solid;
+    border-color: yellow;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+#Leaderboard{
+    border: solid;
+    border-color: yellow;
+    width: 100%;
+    height: 65%;
+}
