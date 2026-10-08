@@ -1,7 +1,8 @@
 body{
     /*background-color: rgb(26, 44, 44);*/
     background-color: rgb(255, 255, 0);
-    border: solid;
+    border-left: solid;
+    border-right: solid;
     border-color: rgb(255, 255, 0);
     font-family: "Chakra Petch", sans-serif;
     font-weight: 400;
