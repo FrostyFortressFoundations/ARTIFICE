@@ -1,0 +1,30 @@
+body{
+    /*background-color: rgb(26, 44, 44);*/
+    background-color: rgb(255, 255, 0);
+    border: solid;
+    border-color: rgb(255, 255, 0);
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    -webkit-text-stroke: 2px rgb(255, 255, 0);
+    padding: 2%;
+
+    background-image: url("images/bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 60px;
+}
+/*
+#Leaderboard{
+    border: solid;
+    border-color: rgb(255, 255, 0);
+    width: 100%;
+    height: 75%;
+}
+*/
