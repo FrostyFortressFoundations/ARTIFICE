@@ -23,6 +23,13 @@ body{
 h1{
     font-size: 60px;
 }
+
+leaderboard{
+    min-width: 50px;
+    border-left: solid;
+    border-right: solid;
+    border-color: yellow;
+}
 /*
 #Leaderboard{
     border: solid;
